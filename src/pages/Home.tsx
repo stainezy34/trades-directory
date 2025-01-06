@@ -44,7 +44,7 @@ export function Home() {
 
               {/* Looking for Work */}
               <div className="bg-white/10 p-6 rounded-lg backdrop-blur">
-                <h2 className="text-xl font-semibold mb-4">Looking for Work?</h2>
+                <h2 className="text-xl font-semibold mb-4">Looking for Local Work?</h2>
                 <p className="mb-4">Find projects that match your skills.</p>
                 <div className="flex gap-3">
                   <Link
